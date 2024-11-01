@@ -1,0 +1,33 @@
+.wc-sf-single-product-other-option p:first-child {
+    display: flex;
+    align-items: center;
+    margin: 20px 0px 20px;
+    font-weight: 600;
+}
+#wc-sf-repeatable-fieldset-one a.button.remove-row {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+}
+
+#wc_sf_repeatable-fields .product-plan{
+    position: relative;
+}
+#wc_sf_repeatable-fields .spinner.is-active {
+    position: absolute;
+    left: 21px;
+  }
+  #wc_sf_repeatable-fields .wc-sf-section-title{
+    font-size: 15px;
+    font-weight: 700;
+    padding: 14px 0px 10px;
+  }
+  .sync-sf-data {
+    margin: 10px 0px 0px;
+    float: left;
+    width: 100%;
+    position: relative;
+  }
+  .sync-sf-data .spinner{
+    position: absolute;
+  }
